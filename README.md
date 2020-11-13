@@ -6,3 +6,5 @@ Frame-based processing can be used in Simulink models to accelerate simulations 
 
 Experiment with the effects of differing signal frame sizes by modifying the "Samples per audio channel" parameter of the From Multimedia File block. Sample time colors and signal dimensions are enabled under the Information Overlays menu to reflect the frame-based changes you make. Simulation performance can be evaluated with the Simulink Profiler tool located under Debug>Performance Advisor>Simulink Profiler.
 
+[![View Frame-Based Processing Video Example Files on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/82773-frame-based-processing-video-example-files)
+
